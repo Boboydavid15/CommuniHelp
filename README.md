@@ -11,3 +11,11 @@ CommuniHelp, disaster preparedness assistance and utility mobile application tha
 
 ![Image](https://github.com/user-attachments/assets/3844c393-e1e0-47d0-b2d5-d6451bafc2e2) Andriod Studio
 
+## 🚀 Features
+
+- 🆘 Request Help: Post requests for assistance
+- 💪 Volunteer: Browse open help requests and offer support
+- 📍 Location-based Matching
+- 🔔 Real-time Notifications
+- 🛡️ User Verification & Trust System
+- 🧭 Admin Dashboard for moderation
