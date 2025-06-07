@@ -3,5 +3,11 @@
 
 CommuniHelp, disaster preparedness assistance and utility mobile application that will provide both information resource, a utility app specific for disaster preparedness literacy for civilians. 
 
-## Language and Tools Used
+## Language and Tools Used:
+
+Flutter 
+
+Firebase 
+
+Andriod Studio
 
