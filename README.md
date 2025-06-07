@@ -5,7 +5,7 @@ CommuniHelp, disaster preparedness assistance and utility mobile application tha
 
 ## Language and Tools Used:
 
-![Image](https://github.com/user-attachments/assets/77f3c336-8e75-4882-ba44-edf61287ace0) Flutter 
+![Image](https://github.com/user-attachments/assets/5edeaaa9-90bf-49ac-8ece-b807ea517d63) Flutter 
 
 Firebase 
 
