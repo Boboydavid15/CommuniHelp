@@ -4,7 +4,7 @@
 CommuniHelp, disaster preparedness assistance and utility mobile application that will provide both information resource, a utility app specific for disaster preparedness literacy for civilians. 
 
 ## Language and Tools Used:
-Flutter 
+
 ![Image](https://github.com/user-attachments/assets/77f3c336-8e75-4882-ba44-edf61287ace0) Flutter 
 
 Firebase 
