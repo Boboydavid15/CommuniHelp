@@ -5,12 +5,23 @@ CommuniHelp, disaster preparedness assistance and utility mobile application tha
 
 ## 🚀 Features
 
-- 🆘 Request Help: Post requests for assistance
-- 💪 Volunteer: Browse open help requests and offer support
-- 📍 Location-based Matching
-- 🔔 Real-time Notifications
-- 🛡️ User Verification & Trust System
-- 🧭 Admin Dashboard for moderation
+- 📝 Report
+Allows users to create and send reports on incidents to authorities.
+
+- 🌤️ View Live Weather
+Displays weather forecasts, temperature, humidity, and related data.
+
+- 📰 View News
+Provides the latest local and international news from reliable sources.
+
+- 🗺️ Find Evacuation Center
+Helps users locate nearby evacuation centers using a map and choose an evacuation site.
+
+- 📊 View Infographics
+Offers guidance on handling natural and man-made disasters in a visual format.
+
+- ☎️ View Hotlines
+Lists emergency contact numbers, with an option to directly call responders.
   
 ## Language and Tools Used:
 
