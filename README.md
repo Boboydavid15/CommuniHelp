@@ -23,7 +23,7 @@ Offers guidance on handling natural and man-made disasters in a visual format.
 - ☎️ View Hotlines:
 Lists emergency contact numbers, with an option to directly call responders.
   
-## Language and Tools Used:
+## 🛠️ Language and Tools Used:
 
 - ![Image](https://github.com/user-attachments/assets/5edeaaa9-90bf-49ac-8ece-b807ea517d63) Flutter 
 
